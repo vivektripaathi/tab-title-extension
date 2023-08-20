@@ -30,5 +30,6 @@ A simple Chrome extension that displays the title of the current tab in the popu
 
 3. Click the "Get Title" button to retrieve and display the title of the current tab.
 
+--- 
 
-Created by [Vivek Tripathi](https://github.com/vivek-tripathi-9005)
+© Created by [Vivek Tripathi](https://github.com/vivek-tripathi-9005) 
