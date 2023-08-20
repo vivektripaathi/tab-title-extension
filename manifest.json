@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Extracter",
+    "version": "1.0",
+    "description": "Get the title of the current tab.",
+    "permissions": ["activeTab"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "assets/icon.png"
+    }
+}
